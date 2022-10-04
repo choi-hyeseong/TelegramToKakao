@@ -1,0 +1,10 @@
+.idea/
+.out/
+.target/
+.cache/
+**/*tdlight-session/
+**/*APIToken*/
+**/target/
+**/artifacts/
+***/META-INF/
+data.dat
